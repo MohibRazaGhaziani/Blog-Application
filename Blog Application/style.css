@@ -210,7 +210,7 @@ input:hover{
     text-align: center;
     color:  rgb(240, 176, 2);
 }
-@media only screen and (max-width : 350px){
+@media only screen and (max-width : 512px){
     .nav{
         padding: 15px 0px 15px 18px;
         gap: 14px;
